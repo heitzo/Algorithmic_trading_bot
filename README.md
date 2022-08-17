@@ -1,2 +1,2 @@
 # Algorithmic_trading_bot
-an algorithmic trading bot that learns and adapts to new data and evolving markets.
+create a bot that will recommend an investment portfolio for a retirement plan.
